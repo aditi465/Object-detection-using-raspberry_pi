@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.onnx
+*.tflite
+*.weights
+*.ncnn
+
+# Logs
+*.log
+
+# MacOS / Windows system files
+.DS_Store
+Thumbs.db
