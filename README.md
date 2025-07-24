@@ -1,7 +1,7 @@
 # Real-Time Object Detection on Raspberry Pi 3B+ using YOLOv5n
 
 This project implements real-time object detection using the *YOLOv5n* model and an *OmniVision camera* on a *Raspberry Pi 3B+.
-The object detection pipeline is powered by **OpenCV's DNN module*, allowing you to perform inference without installing large 
+The object detection pipeline is powered by OpenCV's DNN module, allowing you to perform inference without installing large 
 frameworks like PyTorch or TensorFlow. It is lightweight, fast, and optimized for edge computing on low-power hardware.
 
 ##  Algorithm Overview
